@@ -1,0 +1,6 @@
+POST http://localhost:3000/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl" : "https://madza.hashnode.dev/21-awesome-dev-portfolios-for-your-inspiration?guid=c0392360-d3e7-4de6-aa21-1306787c3cbe&deviceId=a3034f92-dd6f-4fbd-bc74-c4656d09b7e2"
+}

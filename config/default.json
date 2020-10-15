@@ -1,0 +1,4 @@
+{
+    "mongoURI": "yourdatabase in here",
+    "baseUrl": "http://localhost:3000"
+}
